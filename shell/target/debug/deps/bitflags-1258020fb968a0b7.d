@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu\home\chawinl\Shell\Shell\shell\target\debug\deps\libbitflags-1258020fb968a0b7.rmeta: C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src/lib.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\iter.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\parser.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\traits.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\public.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\internal.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\external.rs
+
+\\wsl.localhost\Ubuntu\home\chawinl\Shell\Shell\shell\target\debug\deps\bitflags-1258020fb968a0b7.d: C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src/lib.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\iter.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\parser.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\traits.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\public.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\internal.rs C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\external.rs
+
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src/lib.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\iter.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\parser.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\traits.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\public.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\internal.rs:
+C:\Users\Lenovo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.8.0\src\external.rs:
